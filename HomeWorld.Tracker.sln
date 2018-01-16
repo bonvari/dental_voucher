@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uNFC.NFC", "uNFC.NFC\uNFC.NFC.csproj", "{7A04226C-B29C-4599-80B9-633630CD8C76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{07EFC70B-6696-445A-B543-1AC63350C521}"
+	ProjectSection(SolutionItems) = preProject
+		HomeWorld.Tracker.Web\src\Tracker\global.json = HomeWorld.Tracker.Web\src\Tracker\global.json
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracker", "Tracker\Tracker.csproj", "{07B76114-853B-4CAC-AC7F-16F1171DE975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Debug|ARM.Build.0 = Debug|ARM
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Debug|x64.ActiveCfg = Debug|x64
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Debug|x64.Build.0 = Debug|x64
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Debug|x86.ActiveCfg = Debug|x86
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Debug|x86.Build.0 = Debug|x86
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Release|ARM.ActiveCfg = Release|ARM
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Release|ARM.Build.0 = Release|ARM
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Release|x64.ActiveCfg = Release|x64
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Release|x64.Build.0 = Release|x64
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Release|x86.ActiveCfg = Release|x86
+		{7A04226C-B29C-4599-80B9-633630CD8C76}.Release|x86.Build.0 = Release|x86
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|ARM.ActiveCfg = Debug|ARM
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|ARM.Build.0 = Debug|ARM
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|ARM.Deploy.0 = Debug|ARM
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|x64.ActiveCfg = Debug|x64
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|x64.Build.0 = Debug|x64
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|x64.Deploy.0 = Debug|x64
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|x86.ActiveCfg = Debug|x86
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|x86.Build.0 = Debug|x86
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Debug|x86.Deploy.0 = Debug|x86
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|Any CPU.ActiveCfg = Release|x86
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|ARM.ActiveCfg = Release|ARM
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|ARM.Build.0 = Release|ARM
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|ARM.Deploy.0 = Release|ARM
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|x64.ActiveCfg = Release|x64
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|x64.Build.0 = Release|x64
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|x64.Deploy.0 = Release|x64
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|x86.ActiveCfg = Release|x86
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|x86.Build.0 = Release|x86
+		{07B76114-853B-4CAC-AC7F-16F1171DE975}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
